@@ -15,3 +15,7 @@ body {
   border: 1px solid #000000;
   box-shadow: 1px 3px 19px 0px #939393;
 }
+a {
+  font-size: 20px;
+  margin-top: 20px;
+}
